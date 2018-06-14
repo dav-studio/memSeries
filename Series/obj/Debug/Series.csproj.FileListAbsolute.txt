@@ -1,0 +1,9 @@
+c:\users\sajedi\documents\visual studio 2013\Projects\Series\Series\bin\Debug\Series.exe.config
+c:\users\sajedi\documents\visual studio 2013\Projects\Series\Series\bin\Debug\Series.exe
+c:\users\sajedi\documents\visual studio 2013\Projects\Series\Series\bin\Debug\Series.pdb
+c:\users\sajedi\documents\visual studio 2013\Projects\Series\Series\obj\Debug\Series.csprojResolveAssemblyReference.cache
+c:\users\sajedi\documents\visual studio 2013\Projects\Series\Series\obj\Debug\Series.Properties.Resources.resources
+c:\users\sajedi\documents\visual studio 2013\Projects\Series\Series\obj\Debug\Series.csproj.GenerateResource.Cache
+c:\users\sajedi\documents\visual studio 2013\Projects\Series\Series\obj\Debug\Series.exe
+c:\users\sajedi\documents\visual studio 2013\Projects\Series\Series\obj\Debug\Series.pdb
+C:\Users\Sajedi\Documents\Visual Studio 2013\Projects\Series\Series\obj\Debug\Series.Menu.resources
